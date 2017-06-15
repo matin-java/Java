@@ -13,16 +13,6 @@ public class Steuer {
         double Summe = betrag* 1.19;
         
         System.out.println(Summe);
-         
-   
-   
-   
-   
-   
-   
-   
    
      }
-
-  
   }
