@@ -1,7 +1,7 @@
 # Java
-Hier is the Java Codes !!
+Hier is My Java Codes !!
 
-i just started to learn one months before !!
+I just started to learn one months before !!
 
 
 Matin
